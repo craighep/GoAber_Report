@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.5)  13 DEC 2015 22:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.5)  17 DEC 2015 14:46
 entering extended mode
 **report.tex
 (report.tex
@@ -118,11 +118,7 @@ erystwyth_University_logo.png>]) (report.toc)
 \tf@toc=\write3
  [1
 
-] (report.lof)
-\tf@lof=\write4
- [2
-
-] (introduction.tex
+] (sections.tex
 Chapter 1.
 ) (references.tex [1
 
@@ -130,8 +126,8 @@ Chapter 1.
 No file report.bbl.
 ) (report.aux) ) 
 Here is how much of TeX's memory you used:
- 1600 strings out of 493673
- 20417 string characters out of 3141530
+ 1597 strings out of 493673
+ 20381 string characters out of 3141530
  77653 words of memory out of 3000000
  4961 multiletter control sequences out of 15000+200000
  8849 words of font info for 31 fonts, out of 3000000 for 9000
@@ -144,9 +140,9 @@ mr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 2.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.p
 fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb
 >
-Output written on report.pdf (4 pages, 140574 bytes).
+Output written on report.pdf (3 pages, 139286 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
